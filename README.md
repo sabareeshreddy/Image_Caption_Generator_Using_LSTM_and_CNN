@@ -1,5 +1,10 @@
 # Image_Caption_Generator_Using_LSTM_and_CNN
 
+<p align="center">
+    <a href="https://github.com/Sabareesh000/Lock_Unlock_A_Computer_Using_RFID"><img src="image.png" alt="Logo" border="0"></a>
+    <br>A Deep Learning Project that allows you to Generate Captions based on the Image Provided.
+</p>
+
 ## Table of Contents
 
 -   [Motivation](#Motivation)
