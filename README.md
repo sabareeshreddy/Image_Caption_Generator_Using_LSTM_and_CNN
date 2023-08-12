@@ -1,7 +1,7 @@
 # Image_Caption_Generator_Using_LSTM_and_CNN
 
 <p align="center">
-    <a href="https://github.com/Sabareesh000/Lock_Unlock_A_Computer_Using_RFID"><img src="image.png" alt="Logo" border="0"></a>
+    <a href="https://github.com/Sabareesh000/Lock_Unlock_A_Computer_Using_RFID"><img src="image .png"  border="0"></a>
     <br>A Deep Learning Project that allows you to Generate Captions based on the Image Provided.
 </p>
 
@@ -65,7 +65,7 @@ Also, thanks for contributing to Open-source! 💖
 
 ## License
 
-Text_Summarization is under The MIT License. Read the [LICENSE](https://github.com/sabareeshreddy/Text_Summarizer/blob/main/LICENSE) file for more information.
+Image_Caption_Generator_Using_LSTM_and_CNN is under The MIT License. Read the [LICENSE](https://github.com/sabareeshreddy/Image_Caption_Generator_Using_LSTM_and_CNN/blob/main/LICENSE) file for more information.
 
 
 
