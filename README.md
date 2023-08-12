@@ -7,10 +7,10 @@
 
 ## Table of Contents
 
--   [Motivation](#Motivation)
--   [Installation](#Installation)
--   [Contributing](#Contributing)
--   [License](#License)
+-   [Motivation](##Motivation)
+-   [Installation](##Installation)
+-   [Contributing](##Contributing)
+-   [License](##License)
 
 ## Motivation
 The project's core objective revolves around automating the process of generating descriptive captions for images, condensing a multi-faceted task into a single streamlined solution. By leveraging state-of-the-art technologies such as computer vision and natural language processing, the project aims to provide succinct and informative captions for images. 
